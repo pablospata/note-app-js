@@ -30,4 +30,4 @@ El proyecto incluye las siguientes funcionalidades:
 
 Para probar la aplicación, simplemente ve a la página de demostración alojada en GitHub Pages haciendo click en el siguiente enlace:
 
-* https://tunombredeusuario.github.io/notas-app-js/
+* https://pablospata.github.io/note-app-js/
